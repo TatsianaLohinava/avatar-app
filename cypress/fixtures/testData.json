@@ -1,0 +1,39 @@
+{
+  "apiResponse": {
+    "id": "rnJsPgbAD-8",
+    "alt_description": "a very large star in the middle of a space",
+    "blur_hash": "LQBCGg}[-oX8$*$*s:W.579tIpae",
+    "color": "#260c0c",
+    "description": "Winter 2024 version of the Orion and Cosmic Keyhole Nebulae",
+    "width": 2792,
+    "height": 2800,
+    "views": 631680,
+    "likes": 109,
+    "urls": {
+      "raw": "https://images.unsplash.com/photo-1712194295920-a7e01399bf9f?ixid=M3wzMjgyMDV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM5Mzc2ODZ8&ixlib=rb-4.0.3",
+      "regular": "https://images.unsplash.com/photo-1712194295920-a7e01399bf9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMjgyMDV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM5Mzc2ODZ8&ixlib=rb-4.0.3&q=80&w=1080",
+      "small": "https://images.unsplash.com/photo-1712194295920-a7e01399bf9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMjgyMDV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM5Mzc2ODZ8&ixlib=rb-4.0.3&q=80&w=400",
+      "thumb": "https://images.unsplash.com/photo-1712194295920-a7e01399bf9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMjgyMDV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM5Mzc2ODZ8&ixlib=rb-4.0.3&q=80&w=200",
+      "large": "https://images.unsplash.com/photo-1712194295920-a7e01399bf9f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjgyMDV8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM5Mzc2ODZ8&ixlib=rb-4.0.3&q=85"
+    },
+    "promoted_at": "2024-04-04T09:50:13Z",
+    "user": {
+      "username": "darkcatimages",
+      "name": "Scott Lord"
+    }
+  },
+  "appColor": "#02cc67",
+  "refreshAllText": "Refresh all",
+  "contrastColor": "#fff",
+  "selectors": {
+    "tileUpdate": ".tile-updater",
+    "tileNew": ".tile-new",
+    "tilePhoto": ".tile-photo",
+    "photoDescription": ".photo-description"
+  },
+  "regexPatterns": {
+    "autor": "Author: .*",
+    "views": "Views: d*",
+    "likes": "Likes: d*"
+  }
+}
